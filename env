@@ -1,0 +1,16 @@
+github_token=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
+github_username=fawwood
+github_repository=trident-klipper
+
+path_printercfg=/home/pi/printer_data/config/printer.cfg
+path_mainsailcfg=/home/pi/printer_data/config/mainsail.cfg
+path_moonrakercfg=/home/pi/printer_data/config/moonraker.conf
+path_timelapsecfg=/home/pi/printer_data/config/timelapse.cfg
+path_crowsnestcfg=/home/pi/printer_data/config/crowsnest.conf
+path_adxlcfg=/home/pi/printer_data/config/adxl.cfg
+path_macroscfg=/home/pi/printer_data/config/macros.cfg
+
+#back up whole folder syntax:
+#path_klipperdata=/home/pi/printer_data/
+
+backup_folder=trident-klipper
