@@ -1889,3 +1889,4 @@ Commits Behind Count: 0
 Diverged: False
 2023-11-24 07:29:13,891 [base_deploy.py:log_info()] - Git Repo crowsnest: Channel: dev
 2023-11-24 07:29:13,891 [base_deploy.py:log_info()] - Git Repo crowsnest: Validity check for git repo passed
+2023-11-24 07:34:20,165 [server.py:add_log_rollover_item()] - CPU Throttled Flags: ['Under-Voltage Detected', 'Currently Throttled', 'Previously Under-Volted', 'Previously Throttled']
