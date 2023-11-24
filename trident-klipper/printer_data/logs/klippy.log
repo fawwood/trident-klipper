@@ -4523,3 +4523,316 @@ webhooks: registering remote method 'timelapse_newframe' for connection id: 4122
 webhooks: registering remote method 'timelapse_saveFrames' for connection id: 4122505904
 webhooks: registering remote method 'timelapse_render' for connection id: 4122505904
 Running Command {update_git_script}...:
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/pack/pack-bb61737bffe11bbe9bebde7f03c3bb991f38fd46.pack': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/pack/pack-bb61737bffe11bbe9bebde7f03c3bb991f38fd46.idx': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/4f/0032e9333834e347dc46e4baab987d77d2a00e': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/88/af119311e2a72c0e87655019f7044c0c4d0333': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e8/4312f8974c03f65614f59deb908eaea5efa0d5': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e8/898b10d1654304c70a16d90592e1f6e6575da6': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/60/abd13673bf002e9a7421681cfda84416feaf66': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/60/27304c16690eaacca0c57f7123bcc4d2784f09': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/28/aae269c9fc1d50c79bd3891f0a3d7deb01cd21': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/ac0fbdc7f7ae49c0e68c3944b3a9bc21a55bc0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/71ab18383f1013b7eabf04360506da20d81131': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/8207bfb62fe9001009b166365adc4a6d0e2350': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/94/7aa07cda7476a8cfecb67325e9b71bee004041': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c8/04c2755a8215dbdfb70705f37315b1999a22ea': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/13/da239b080a326a645474b68c1444f73c8bc5a6': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/29/d6634a71109d94c4c23692e5b89e1cc01b7c5a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/79/4aa561e2d0c737c233cf09b2ff804cd651e347': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/f8/8581b77adb82a815519c23362aae74dffc8108': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/daea28ef49561f45f685077273859f6a1ce794': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/a21aa13d04e77ee81b06715712fea0fbe6fe87': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/4cb26ad9f3cf45ee56eb762246111207f41d65': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/30/14123001080de3296203d98ce39a47b1874977': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/30/9acb8ade0385e11c9309bd5917c21075d8cc72': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/a5/cd883f6ca6e9e4c50dc36577bb6d3e5817aab8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/02/5d9033338e529097546028376e5a94f9bc412d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7c/d5ef1fbd19b2a4d1596cc8f49da2a2f66fc782': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/2c/680795e67d94645c4a848892f88d404ba33977': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/d3/8d122d01f7325160738215f79e86b08df5eb5c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/44/9b49bdbba0c389886ec206abf7768700425af1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/22/60488cd57f7dfed3747e153932d4fa2095ae69': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/22/57a7bdb9ec5cb5430544fcc1787b6fcf80a9e7': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ae/b35d8bc939aa15be0fd383c6a56b70048bff46': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9c/8a5d0c02ea5fc99fa36462b74885f65ff65bf4': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/e6c080ae8ed0b59b1b06891d1d7bf8af709543': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/3026593dbdbc7a0c1a2137488245627976297c': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/85bf9df398f6d4661f21c1b13141ccc04c2fc9': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/34/e758149eadd14dba30b67a398950f1914ef6a6': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/4c/187d034d24c919d232c926683a05df25190c58': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/5c/7ee4c68f37dcee8b08d530aaee28c88d81c85d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/98/2e94921d53375bba1041af2001cbc381a4c8c2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/5b/0bb61abf84f4cbf1af4dab7d12fe9337d36739': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c1/2b4302fb49beeb69254b2c047a9d9833013162': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e6/405e283fcbd70b1179f5e1dc02a1d3e0d5ab50': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/75/480892c525aec094d2b6881fa1bdec8689321a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ce/a228d8e3d315dd14d2551bb2d874687a54289d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7e/2b525194c31bc36a080b1c552c20a1d1048e4f': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/10/438e1eada1c222955b43b07f36af709d08245a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/55/d0626c8a7fb1c18671fb47c62071d5d8d91cd0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/eb/c5b15858f92ca0aeeb261e1e405367ea033138': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/8a/39be86eb59be477c65236281f4155e2c12c3bd': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/f1/323f02b10a1140b2f976e60db0d695f5e26d4c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/2f/4ccccb09e95d55f92a11c3dede7a70f1b620d2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/40/a2861f3b1d453d12a2921ce9cb55f6999464a1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/3a/56faf1644ba5429f55862a4e4ae12aba2a2271': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/db/995a2bb7ede4cba991473b53e24ccc3d7dffa8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/26/0d3f11cb9dfb0dc4ec709e1d26ce7a82fa3b8a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c4/e1b2565591bb75bcf034752565a9278a04c4ff': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7a/50f4e5097ac82e92b711bbb6de0a7ac9e5f64c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7a/cbe74dee7910d599e9e4ea5a20601d7f52b860': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7b/402d7237afbde8e1184a66a3cdab55fbb61fc1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ef/67da6dbe63ac908f0ac34136cf926a9bb6c7d5': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/89/213bffcd9dfd5d19b8e13cc03509c2a331b22d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/71/2fb79ad9fcfd704641f9e4f584294bbef9d014': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/51/48f3ff89488f4a16980bcc78c4540528cb78c0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/47/4e157189291872583d813e64783d0aa026b8a8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/a0/dbb2171a327d65f5f3917771a5d29dfc5cb77c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9f/ec90d5ea8129afc1d24851a7b5aa88bf33abb2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9f/cb5ef6af17e2c729124a55be4e63d8b2a10792': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/d9/396a31a78b4b5addcbc04ce2f2e64cc12e167c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ee/687dd268737f62856c74181951c99040d3df48': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/be/965802af2caeee2db5115d32e536c01883813a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/41/7d7afb42e0f2d7b82ca6529313f1f1b9fb7e98': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/35/1f4e42f420ff83c7c7673e51f04acb7889e560': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/de/51af4a6ce77c5db6fb57ee7e6448017ec52599': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/b4/a4d6f075ef7ca66cae6e2d34b55ac4a9cf674d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/pack/pack-bb61737bffe11bbe9bebde7f03c3bb991f38fd46.pack': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/pack/pack-bb61737bffe11bbe9bebde7f03c3bb991f38fd46.idx': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/4f/0032e9333834e347dc46e4baab987d77d2a00e': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/88/af119311e2a72c0e87655019f7044c0c4d0333': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e8/898b10d1654304c70a16d90592e1f6e6575da6': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e8/4312f8974c03f65614f59deb908eaea5efa0d5': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/60/abd13673bf002e9a7421681cfda84416feaf66': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/60/27304c16690eaacca0c57f7123bcc4d2784f09': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/28/aae269c9fc1d50c79bd3891f0a3d7deb01cd21': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/ac0fbdc7f7ae49c0e68c3944b3a9bc21a55bc0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/71ab18383f1013b7eabf04360506da20d81131': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/0c/8207bfb62fe9001009b166365adc4a6d0e2350': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/94/7aa07cda7476a8cfecb67325e9b71bee004041': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c8/04c2755a8215dbdfb70705f37315b1999a22ea': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/13/da239b080a326a645474b68c1444f73c8bc5a6': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/29/d6634a71109d94c4c23692e5b89e1cc01b7c5a': Permission denied
+
+Write g-code response
+Traceback (most recent call last):
+  File "/home/pi/klipper/klippy/gcode.py", line 446, in _respond_raw
+    os.write(self.fd, (msg+"\n").encode())
+BlockingIOError: [Errno 11] Resource temporarily unavailable
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/79/4aa561e2d0c737c233cf09b2ff804cd651e347': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/f8/8581b77adb82a815519c23362aae74dffc8108': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/daea28ef49561f45f685077273859f6a1ce794': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/a21aa13d04e77ee81b06715712fea0fbe6fe87': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/19/4cb26ad9f3cf45ee56eb762246111207f41d65': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/30/14123001080de3296203d98ce39a47b1874977': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/30/9acb8ade0385e11c9309bd5917c21075d8cc72': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/a5/cd883f6ca6e9e4c50dc36577bb6d3e5817aab8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/02/5d9033338e529097546028376e5a94f9bc412d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7c/d5ef1fbd19b2a4d1596cc8f49da2a2f66fc782': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/2c/680795e67d94645c4a848892f88d404ba33977': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/d3/8d122d01f7325160738215f79e86b08df5eb5c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/44/9b49bdbba0c389886ec206abf7768700425af1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/22/60488cd57f7dfed3747e153932d4fa2095ae69': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/22/57a7bdb9ec5cb5430544fcc1787b6fcf80a9e7': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ae/b35d8bc939aa15be0fd383c6a56b70048bff46': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9c/8a5d0c02ea5fc99fa36462b74885f65ff65bf4': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/e6c080ae8ed0b59b1b06891d1d7bf8af709543': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/3026593dbdbc7a0c1a2137488245627976297c': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/bb/85bf9df398f6d4661f21c1b13141ccc04c2fc9': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/34/e758149eadd14dba30b67a398950f1914ef6a6': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/4c/187d034d24c919d232c926683a05df25190c58': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/5c/7ee4c68f37dcee8b08d530aaee28c88d81c85d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/98/2e94921d53375bba1041af2001cbc381a4c8c2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/5b/0bb61abf84f4cbf1af4dab7d12fe9337d36739': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c1/2b4302fb49beeb69254b2c047a9d9833013162': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/e6/405e283fcbd70b1179f5e1dc02a1d3e0d5ab50': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/75/480892c525aec094d2b6881fa1bdec8689321a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ce/a228d8e3d315dd14d2551bb2d874687a54289d': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7e/2b525194c31bc36a080b1c552c20a1d1048e4f': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/10/438e1eada1c222955b43b07f36af709d08245a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/55/d0626c8a7fb1c18671fb47c62071d5d8d91cd0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/eb/c5b15858f92ca0aeeb261e1e405367ea033138': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/8a/39be86eb59be477c65236281f4155e2c12c3bd': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/f1/323f02b10a1140b2f976e60db0d695f5e26d4c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/2f/4ccccb09e95d55f92a11c3dede7a70f1b620d2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/40/a2861f3b1d453d12a2921ce9cb55f6999464a1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/3a/56faf1644ba5429f55862a4e4ae12aba2a2271': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/db/995a2bb7ede4cba991473b53e24ccc3d7dffa8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/26/0d3f11cb9dfb0dc4ec709e1d26ce7a82fa3b8a': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/c4/e1b2565591bb75bcf034752565a9278a04c4ff': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7a/50f4e5097ac82e92b711bbb6de0a7ac9e5f64c': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7a/cbe74dee7910d599e9e4ea5a20601d7f52b860': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/7b/402d7237afbde8e1184a66a3cdab55fbb61fc1': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ef/67da6dbe63ac908f0ac34136cf926a9bb6c7d5': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/89/213bffcd9dfd5d19b8e13cc03509c2a331b22d': Permission denied
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/71/2fb79ad9fcfd704641f9e4f584294bbef9d014': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/51/48f3ff89488f4a16980bcc78c4540528cb78c0': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/47/4e157189291872583d813e64783d0aa026b8a8': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/a0/dbb2171a327d65f5f3917771a5d29dfc5cb77c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9f/ec90d5ea8129afc1d24851a7b5aa88bf33abb2': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/9f/cb5ef6af17e2c729124a55be4e63d8b2a10792': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/d9/396a31a78b4b5addcbc04ce2f2e64cc12e167c': Permission denied
+
+cp: cannot create regular file '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/trident-klipper/printer_data/klipper-backup/.git/objects/ee/687dd268737f62856c74181951c99040d3df48': Permission denied
+
+cp: cannot copy a directory, '/home/pi/printer_data/', into itself, '/home/pi/printer_data/klipper-backup/trident-klipper/printer_data'
+
+Reinitialized existing Git repository in /home/pi/printer_data/klipper-backup/.git/
+
+WARNING: git-filter-branch has a glut of gotchas generating mangled history
+	 rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+	 alternative filtering tool such as 'git filter-repo'
+	 (https://github.com/newren/git-filter-repo/) instead.  See the
+	 filter-branch manual page for more details; to squelch this warning,
+	 set FILTER_BRANCH_SQUELCH_WARNING=1.
+
+Proceeding with filter-branch...
+
+
+Cannot rewrite branches: You have unstaged changes.
+
+[main 350bb39] New backup from 24-11-23
+ 10 files changed, 10803 insertions(+), 228936 deletions(-)
+ create mode 100644 trident-klipper/printer_data/logs/crowsnest.log.2023-11-24
+ rewrite trident-klipper/printer_data/logs/klippy.log (99%)
+ copy trident-klipper/printer_data/logs/{klippy.log => klippy.log.2023-11-23} (99%)
+ rewrite trident-klipper/printer_data/logs/moonraker.log (99%)
+ copy trident-klipper/printer_data/logs/{moonraker.log => moonraker.log.2023-11-23} (95%)
+
+fatal: could not read Password for 'https://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@github.com': No such device or address
+
+Command {update_git_script} finished
+
+Running Command {update_git_script}...:
